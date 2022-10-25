@@ -2,6 +2,12 @@
 
 Remove finilizers and delete all the object related to a CRD in a given namespace
 
+## Requirements
+
+* bash >= 5
+* kubectl: https://github.com/kubernetes/kubectl
+* yq: https://github.com/mikefarah/yq
+
 ## Git repositories
 
 * Main repo: https://gitlab.comwork.io/oss/clean-k8s-objects
